@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 
 <head>
     <title>Uber Data Analytics Project</title>
@@ -23,3 +25,5 @@
     <h1>Dataset Utilized</h1>
     <p>The dataset used for this project is the TLC Trip Record Data, which encompasses information from both yellow and green taxi trips. It contains crucial details, including pick-up and drop-off date/times, location information, trip distances, fare breakdowns, rate types, payment methods, and passenger counts as reported by the drivers.</p>
 </body>
+
+</html>
