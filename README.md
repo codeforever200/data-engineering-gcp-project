@@ -15,10 +15,6 @@ The goal of this project is to conduct data analytics on Uber data utilizing a r
   - Looker Studio for data visualization and reporting
 - Mage Data Pipeline Tool for data processing
 
-## Data Model
-![data_model](https://github.com/codeforever200/data-engineering-gcp-project/assets/57805586/d238956a-e8fa-40eb-8d87-dc4ab4ba05ff)
-
-
 ## Dataset Used
 The project relies on the "TLC Trip Record Data," which includes records of both yellow and green taxi trips. The dataset features essential fields such as:
 - Pick-up and drop-off date/times
@@ -28,3 +24,7 @@ The project relies on the "TLC Trip Record Data," which includes records of both
 - Rate types
 - Payment types
 - Driver-reported passenger counts
+
+## Data Model
+![data_model](https://github.com/codeforever200/data-engineering-gcp-project/assets/57805586/d238956a-e8fa-40eb-8d87-dc4ab4ba05ff)
+
