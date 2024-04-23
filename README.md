@@ -3,6 +3,7 @@
 ## Project Objective
 The goal of this project is to conduct data analytics on Uber data utilizing a range of tools and technologies, including Google Cloud Platform (GCP) services. The project involves the following components:
 
+## Link to Looker Studio Dashboard  - https://lookerstudio.google.com/s/gd7pO-kQdHQ
 ## Workflow Architecture
 ![architecture](https://github.com/codeforever200/data-engineering-gcp-project/assets/57805586/fbefb8d5-2b0a-4634-929e-df5dac9438fa)
 
